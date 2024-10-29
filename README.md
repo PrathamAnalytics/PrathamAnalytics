@@ -54,7 +54,7 @@ I'm a passionate Data Analyst with a love for finding stories in data. Constantl
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
     </a> 
 </p>
+
 ### GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamanalytics&show_icons=true&locale=en&layout=compact" alt="prathamanalytics" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamanalytics&show_icons=true&locale=en" alt="prathamanalytics" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamanalytics&" alt="prathamanalytics" /></p>

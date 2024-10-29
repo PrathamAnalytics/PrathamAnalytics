@@ -1,4 +1,7 @@
-![MasterHead](https://images.inc.com/uploaded_files/image/1024x576/getty_585776828_390554.jpg)
+<div align="center">
+    <img src="https://images.inc.com/uploaded_files/image/1024x576/getty_585776828_390554.jpg" alt="MasterHead" width="50%" />
+</div>
+
 
 <h1 align="center">Pratham Chatterjee</h1>
 <h3 align="center">Data Analyst</h3>

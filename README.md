@@ -1,8 +1,13 @@
 <div align="center">
-    <img src="https://images.inc.com/uploaded_files/image/1024x576/getty_585776828_390554.jpg" alt="MasterHead" width="50%" />
+    <div style="text-align:center; padding: 20px;">
+  <img src="https://images.inc.com/uploaded_files/image/1024x576/getty_585776828_390554.jpg" 
+       alt="MasterHead" 
+       width="1000" 
+       height="275" 
+       style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);" />
 </div>
 
-
+</div>
 <h1 align="center">Pratham Chatterjee</h1>
 <h3 align="center">Data Analyst</h3>
 <img align="right" alt="Coding" width="300" src="https://st3.depositphotos.com/6837936/19224/v/450/depositphotos_192242464-stock-illustration-data-analysis-design-concept.jpg" />
@@ -56,5 +61,8 @@ I'm a passionate Data Analyst with a love for finding stories in data. Constantl
 </p>
 
 ### GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamanalytics&show_icons=true&locale=en" alt="prathamanalytics" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamanalytics&" alt="prathamanalytics" /></p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamanalytics&show_icons=true&locale=en" alt="prathamanalytics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamanalytics&" alt="prathamanalytics" />
+</div>
+

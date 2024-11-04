@@ -60,9 +60,5 @@ I'm a passionate Data Analyst with a love for finding stories in data. Constantl
     </a> 
 </p>
 
-### GitHub Stats
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamanalytics&show_icons=true&locale=en" alt="prathamanalytics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamanalytics&" alt="prathamanalytics" />
-</div>
+
 

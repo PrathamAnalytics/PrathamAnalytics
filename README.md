@@ -19,7 +19,8 @@ I'm a passionate Data Analyst with a love for finding stories in data. Constantl
 
 ### 🌱 Currently Mastering
 ![Python Icon](https://img.icons8.com/color/48/000000/python.png)    ![Pandas Icon](https://img.icons8.com/color/48/000000/pandas.png)    ![NumPy Icon](https://img.icons8.com/color/48/000000/numpy.png)    ![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgreesql.png)    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="60" height="40"/>
-    ![Tableau Icon](https://img.icons8.com/color/48/000000/tableau-software.png)
+    ![Tableau Icon](https://img.icons8.com/color/48/000000/tableau-software.png) <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Icon" width="48" height="48"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,6 +59,9 @@ I'm a passionate Data Analyst with a love for finding stories in data. Constantl
     </a> 
   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" height="40"/>
+</a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/> 
 </a>
 
 </p>

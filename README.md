@@ -16,6 +16,10 @@
 
 ### About Me
 I'm a passionate Data Analyst with a love for finding stories in data. Constantly learning and exploring Excel, Python, SQL, Power BI, and Tableau.
+## <a href="https://PrathamAnalytics.github.io" target="_blank" style="font-size: 24px; text-decoration: none; color: black; font-weight: bold;">
+    PORTFOLIO
+</a>
+
 
 ### 🌱 Currently Mastering
 ![Python Icon](https://img.icons8.com/color/48/000000/python.png)    ![Pandas Icon](https://img.icons8.com/color/48/000000/pandas.png)    ![NumPy Icon](https://img.icons8.com/color/48/000000/numpy.png)    ![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgreesql.png)    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="60" height="40"/>
@@ -26,11 +30,6 @@ I'm a passionate Data Analyst with a love for finding stories in data. Constantl
 <p align="left">
 <a href="https://linkedin.com/in/pratham-chatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham chatterjee" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pratham_chatter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratham_chatter" height="30" width="40" /></a>
-<a href="https://PrathamAnalytics.github.io" target="_blank">
-    <img align="center" src="https://yourlogo.com/logo.png" alt="PrathamAnalytics" height="30" width="40" />
-</a>
-
-
 </p>
 
 ### Languages and Tools

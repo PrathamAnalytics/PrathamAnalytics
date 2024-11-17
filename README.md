@@ -16,7 +16,9 @@
 
 ### About Me
 I'm a passionate Data Analyst with a love for finding stories in data. Constantly learning and exploring Excel, Python, SQL, Power BI, and Tableau.
-## <a href="https://PrathamAnalytics.github.io" target="_blank" style="font-size: 24px; text-decoration: none; color: black; font-weight: bold;">
+
+
+Visit MY <a href="https://PrathamAnalytics.github.io" target="_blank" style="font-size: 24px; text-decoration: none; color: black; font-weight: bold;">
     PORTFOLIO
 </a>
 

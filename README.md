@@ -23,6 +23,7 @@ Visit My <a href="https://PrathamAnalytics.github.io" target="_blank" style="fon
 </a>
 
 
+
 ### 🌱 Currently Mastering
 ![Python Icon](https://img.icons8.com/color/48/000000/python.png)    ![Pandas Icon](https://img.icons8.com/color/48/000000/pandas.png)    ![NumPy Icon](https://img.icons8.com/color/48/000000/numpy.png)    ![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgreesql.png)    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="60" height="40"/>
     ![Tableau Icon](https://img.icons8.com/color/48/000000/tableau-software.png) <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Icon" width="48" height="48"/>

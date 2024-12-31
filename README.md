@@ -18,7 +18,7 @@
 I'm a passionate Data Analyst with a love for finding stories in data. Constantly learning and exploring Excel, Python, SQL, Power BI, and Tableau.
 
 
-Visit My <a href="[https://PrathamAnalytics.github.io](https://prathamchatterjee.notion.site/Pratham-Chatterjee-1652f9380b1580c6a330cd274e93096b)" target="_blank" style="font-size: 24px; text-decoration: none; color: black; font-weight: bold;">
+Visit My <a href="(https://prathamchatterjee.notion.site/Pratham-Chatterjee-1652f9380b1580c6a330cd274e93096b)" target="_blank" style="font-size: 24px; text-decoration: none; color: black; font-weight: bold;">
     PORTFOLIO
 </a>
 

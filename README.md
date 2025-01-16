@@ -15,14 +15,15 @@
 > "In the world of data, context is everything; without it, numbers are just noise."
 
 ### About Me
-I'm a passionate Data Analyst with a love for finding stories in data. Constantly learning and exploring Excel, Python, SQL, Power BI, and Tableau.
+I'm a passionate Data Analyst with a love for finding stories in data. Constantly learning and exploring Excel, PostgreSQL and Tableau.
 
 [Visit My Portfolio](https://prathamchatterjee.notion.site/Pratham-Chatterjee-1652f9380b1580c6a330cd274e93096b)
 
 
 
 ### 🌱 Currently Mastering
-![Python Icon](https://img.icons8.com/color/48/000000/python.png)    ![Pandas Icon](https://img.icons8.com/color/48/000000/pandas.png)    ![NumPy Icon](https://img.icons8.com/color/48/000000/numpy.png)    ![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgreesql.png)     ![Tableau Icon](https://img.icons8.com/color/48/000000/tableau-software.png) <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Icon" width="48" height="48"/>
+![Excel Icon](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
+     ![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgreesql.png)     ![Tableau Icon](https://img.icons8.com/color/48/000000/tableau-software.png)
 
 
 <h3 align="left">Connect with me:</h3>

@@ -22,8 +22,8 @@ I'm a passionate Data Analyst with a love for finding stories in data. Constantl
 
 
 ### 🌱 Currently Mastering
-![Excel Icon](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
-     ![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgreesql.png)     ![Tableau Icon](https://img.icons8.com/color/48/000000/tableau-software.png)
+![Excel Icon](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png) 
+     ![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgreesql.png)  ![Python Icon](https://img.icons8.com/color/48/000000/python.png)   ![Tableau Icon](https://img.icons8.com/color/48/000000/tableau-software.png)
 
 
 <h3 align="left">Connect with me:</h3>

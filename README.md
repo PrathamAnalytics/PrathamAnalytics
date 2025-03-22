@@ -15,7 +15,7 @@
 > "In the world of data, context is everything; without it, numbers are just noise."
 
 ### About Me
-I'm a passionate Data Analyst with a love for finding stories in data. Constantly learning and exploring Excel, PostgreSQL and Tableau.
+I'm a passionate Data Analyst with a love for finding stories in data. Constantly learning and exploring Excel, PostgreSQL, Python and Tableau.
 
 [Visit My Portfolio](https://prathamchatterjee.notion.site/Pratham-Chatterjee-1652f9380b1580c6a330cd274e93096b)
 
